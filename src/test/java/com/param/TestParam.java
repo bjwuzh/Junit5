@@ -13,4 +13,8 @@ public class TestParam {
                 ()-> assertEquals(5,5));
 
     }
+    @Test
+    void testGit(){
+        System.out.println("提交到git上");
+    }
 }
